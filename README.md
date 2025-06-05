@@ -75,4 +75,8 @@
                    *Improving ML Models: The task serves as a practical example for developing and refining natural language processing (NLP) and machine learning classification techniques.
 
             I have used gemini,google,chatgpt platforms.
+
+  *OUTPUT*
+
+  ![Image](https://github.com/user-attachments/assets/ae560659-f42f-470d-a4b7-353a4152e10b)
                     
